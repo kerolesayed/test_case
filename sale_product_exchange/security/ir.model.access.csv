@@ -1,0 +1,2 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+sale_product_exchange.access_new_sale_item,access_new_sale_item,sale_product_exchange.model_new_sale_item,,1,1,1,1
