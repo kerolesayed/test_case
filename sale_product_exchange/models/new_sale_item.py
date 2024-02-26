@@ -3,6 +3,7 @@ from odoo import fields, models
 
 class NewSaleItem(models.TransientModel):
     _name = 'new.sale.item'
+    _description = 'ADD Product Line'
 
     product_id = fields.Many2one('product.product', string="Product", required=True,)
     quantity = fields.Float("Quantity", digits='Product Unit of Measure', required=True,default=1)

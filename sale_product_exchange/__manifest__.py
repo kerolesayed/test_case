@@ -14,7 +14,8 @@
 
     'author': "Keroles Ayed",
     'website': "https://www.linkedin.com/in/keroles-ayed-19788b14a/",
-
+    'version': '15',
+    'license': 'LGPL-3',
 
     'depends': ['stock'],
 
