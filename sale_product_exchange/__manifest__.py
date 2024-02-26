@@ -9,7 +9,6 @@
           This module allows to exchange products form delivery order
           Also allows to add new products during the exchange process
           exchanged products and new added products added in the same Sales Order
-          
     """,
 
     'author': "Keroles Ayed",
